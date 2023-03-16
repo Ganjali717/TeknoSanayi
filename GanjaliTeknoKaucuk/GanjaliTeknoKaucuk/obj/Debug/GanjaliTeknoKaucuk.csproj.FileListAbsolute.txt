@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\GanjaliTeknoKaucuk\GanjaliTeknoKaucuk\bin\Debug\GanjaliTeknoKaucuk.exe.config
+C:\Users\User\Desktop\GanjaliTeknoKaucuk\GanjaliTeknoKaucuk\bin\Debug\GanjaliTeknoKaucuk.exe
+C:\Users\User\Desktop\GanjaliTeknoKaucuk\GanjaliTeknoKaucuk\bin\Debug\GanjaliTeknoKaucuk.pdb
+C:\Users\User\Desktop\GanjaliTeknoKaucuk\GanjaliTeknoKaucuk\obj\Debug\GanjaliTeknoKaucuk.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GanjaliTeknoKaucuk\GanjaliTeknoKaucuk\obj\Debug\GanjaliTeknoKaucuk.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\GanjaliTeknoKaucuk\GanjaliTeknoKaucuk\obj\Debug\GanjaliTeknoKaucuk.Form1.resources
+C:\Users\User\Desktop\GanjaliTeknoKaucuk\GanjaliTeknoKaucuk\obj\Debug\GanjaliTeknoKaucuk.Properties.Resources.resources
+C:\Users\User\Desktop\GanjaliTeknoKaucuk\GanjaliTeknoKaucuk\obj\Debug\GanjaliTeknoKaucuk.csproj.GenerateResource.cache
+C:\Users\User\Desktop\GanjaliTeknoKaucuk\GanjaliTeknoKaucuk\obj\Debug\GanjaliTeknoKaucuk.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GanjaliTeknoKaucuk\GanjaliTeknoKaucuk\obj\Debug\GanjaliTeknoKaucuk.exe
+C:\Users\User\Desktop\GanjaliTeknoKaucuk\GanjaliTeknoKaucuk\obj\Debug\GanjaliTeknoKaucuk.pdb
+C:\Users\User\Desktop\GanjaliTeknoKaucuk\GanjaliTeknoKaucuk\obj\Debug\GanjaliTeknoKaucuk.Form2.resources
+C:\Users\User\Desktop\GanjaliTeknoKaucuk\GanjaliTeknoKaucuk\obj\Debug\GanjaliTeknoKaucuk.Form3.resources
+C:\Users\User\Desktop\GanjaliTeknoKaucuk\GanjaliTeknoKaucuk\obj\Debug\GanjaliTeknoKaucuk.Form4.resources
