@@ -19,7 +19,6 @@ namespace GanjaliTeknoKaucuk
 
         private void button1_Click(object sender, EventArgs e)
         {
-            // Birinci işlevsellik: Sayıların toplamının üçüncü sayı ile çarpımının sonucunu hesaplayın.
             if (textBox1.Text != "" && textBox2.Text != "" && textBox3.Text != "")
             {
                 double sayi1 = Convert.ToDouble(textBox1.Text);

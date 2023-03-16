@@ -16,14 +16,12 @@ namespace GanjaliTeknoKaucuk
         {
             InitializeComponent();
         }
-
         private void button1_Click(object sender, EventArgs e)
         {
             int number = int.Parse(textBox1.Text);
             int fibonacciNumber = CalculateFibonacci(number);
             label2.Text = fibonacciNumber.ToString();
         }
-
         private int CalculateFibonacci(int number)
         {
             if (number <= 1)
